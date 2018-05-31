@@ -1,0 +1,16 @@
+intro: 
+publications:
+  - paper:
+    title: "엣지있게 설명한 Ionic (Developing an Ionic Edge)"
+    authors: Anton Shevchenko , Robin van Baalen, Keith D. Moore, Diego Netto, Alan Levicki
+    translator: SungKwang Song
+    conference: 홍릉과학출판사, 2015
+    ISBN: 9791156003816(1156003814)
+  - paper:
+    title: "Rule-based Semantic Search Techniques for Knowledge Commerce Services"
+    authors: SungKwang Soong, YoungJi KIm, YongTae Woo
+    conference: "KCI no.1, vol.6 (2010), 91-103"
+  - paper:
+    title: "A implementation of e-Learning support service based on Web 2.0"
+    authors: DongHwa Ryu, SungKwang Song, YoungKyun Kim, YongTae Woo
+    conference: "한국정보과학회 학술 심포지움 논문집, no.1, vol.1 (2007), 192-195"

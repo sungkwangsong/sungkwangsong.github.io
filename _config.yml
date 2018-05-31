@@ -1,0 +1,57 @@
+# Site Settings
+title: SungKwang Song
+url: 'https://sungkwang.me'
+baseurl: ''
+#baseurl: '/online-cv' #change it according to your repository name
+about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin:  # blue turquoise green berry orange ceramic
+
+
+# Profile information
+name: SungKwang Song
+tagline: Full Stack Research Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am working on developing a service that is not dependent on the platform. I am, as a developer, a full-stack developer. In order to develop a service that is not dependent on the platform, I have carried out the project with various roles from back-end development to front-end development. 
+<br><br>
+I have developed an HTML5 based cross-platform hybrid mobile app service. I have developed modules that can be used for server and client application development and have established APIs for various programs. 
+<br><br>
+When I work on a project, I design, build and distribute my project development environment. I am also responsible for reviewing, integrating and distributing source code written by team members.'
+
+# Sidebar links
+email: contact@sungkwang.me
+phone: 
+website: blog.saltfactory.net #do not add http://
+linkedin: sungkwangsong
+github: sungkwangsong
+facebook: sungkwang.me
+twitter: '@sungkwangsong'
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-120131969-1
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false
+
+plugins:
+  - jekyll-sass-converter

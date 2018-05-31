@@ -1,0 +1,19 @@
+intro: ""
+projects:
+  - project:
+    title: hibrain.net
+    link: "https://www.hibrain.net"
+    tagline: "It is an information site for hiring master's and doctorate degrees. Existing services have been completely reorganized to develop and operate in a cloud-based environment."
+  - project:
+    title: hibrainapps
+    link: "#"
+    tagline: "It is to develop hibrain.net website services as HTML5 based hybrid mobile application"
+  - project:
+    title: hibrain.net KMS
+    link: "#"
+    tagline: "It is a project to develop a knowledge management system"
+  - project:
+    title: SQL Note
+    link: "#"
+    tagline: "A mobile application that can fully test a SQLite database."
+
